@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Study Companion",
+  "description": "An intelligent study helper that generates summaries and reads text aloud using high-quality AI voices.",
+  "requestFramePermissions": []
+}
